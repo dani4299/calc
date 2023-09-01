@@ -1,0 +1,25 @@
+.mainstyle {
+    background-color: black;
+    color: aliceblue;
+    width: 100px;
+    height: 50px;
+    border-color: gray;
+
+}
+
+.mainstyle3 {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(6, 36, 127);
+    color: rgb(255, 255, 255);
+    border-color: gray;
+
+}
+
+.mainstyle2 {
+    width: 100px;
+    height: 50px;
+    background-color: orange;
+    color: white;
+    border-color: rgb(127, 73, 8);
+}
